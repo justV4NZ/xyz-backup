@@ -1,0 +1,8 @@
+{
+  "appId": "com.example.app",
+  "appName": "pos-mobile-offline",
+  "webDir": "dist/spa",
+  "server": {
+    "androidScheme": "https"
+  }
+}

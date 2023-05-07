@@ -1,0 +1,12 @@
+{
+  "name": "IMS",
+  "version": "1.0",
+  "description": "An offline pos mobile application",
+  "author": "Newbie",
+  "private": true,
+  "dependencies": {
+    "@capacitor/android": "^2.5.0",
+    "@capacitor/cli": "^2.0.0",
+    "@capacitor/core": "^2.0.0"
+  }
+}

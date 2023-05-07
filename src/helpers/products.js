@@ -1,0 +1,51 @@
+export const productCards = [
+  {
+    id: 1,
+    productName: "Shampoo (Dozen)",
+    price: 125.0,
+    category: "Necessity",
+    qty: 10,
+  },
+  {
+    id: 2,
+    productName: "Coca-Cola 1 Liter",
+    price: 100.0,
+    category: "Beverage",
+    qty: 10,
+  },
+  {
+    id: 3,
+    productName: "Mang Juan",
+    price: 34.0,
+    category: "Junk Foods",
+    qty: 10,
+  },
+  {
+    id: 4,
+    productName: "Piattos",
+    price: 40.0,
+    category: "Junk Foods",
+    qty: 10,
+  },
+  {
+    id: 5,
+    productName: "Oishi Spicy",
+    price: 35.0,
+    category: "Junk Foods",
+    qty: 10,
+  },
+  {
+    id: 6,
+    productName: "Sprite 1 Liter",
+    price: 100.0,
+    category: "Beverage",
+    qty: 10,
+  },
+  {
+    id: 7,
+    productName: "Piattos",
+    price: 40.0,
+    category: "Junk Foods",
+    qty: 10,
+  },
+];
